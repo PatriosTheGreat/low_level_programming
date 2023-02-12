@@ -1,0 +1,1 @@
+nasm -E $1.asm
